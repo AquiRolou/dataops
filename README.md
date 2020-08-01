@@ -52,5 +52,19 @@ Algumas tecnologias usadas no projeto:
 License
 ----
 
+### Manual Doker Arflow
+----
+Estrutura de arquivos etl no doker arflow
+ 
+ 
+ 
+Dentro das pasta de etl Job-DataScience e Job-Vendas ficam todos os arquivos de execuão.
+ 
+No arquivo tuto.py mostra a dag criada 
+ 
+Lá também é feito o chamado dos arquivos .sh que serão executados.
+  
+
+
 GNU
-https://drive.google.com/file/d/11bFUJR7QS73Pf4dJEQjtFGLrpaRdVvjs/view
+
