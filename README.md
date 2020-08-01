@@ -55,15 +55,28 @@ License
 ### Manual Doker Arflow
 ----
 Estrutura de arquivos etl no doker arflow
- 
- 
- 
+
+[![N|Solid](https://docs.google.com/uc?id=1UUaaxkmU5_E0IPa9Kk7TQRhlzvVuNRKr)
+
 Dentro das pasta de etl Job-DataScience e Job-Vendas ficam todos os arquivos de execuão.
- 
+
+[![N|Solid](https://docs.google.com/uc?id=11bFUJR7QS73Pf4dJEQjtFGLrpaRdVvjs)
+
 No arquivo tuto.py mostra a dag criada 
- 
+
+[![N|Solid](https://docs.google.com/uc?id=1v0NLrXR967d8z1VRshqHjtl7j_tr3ngw)
+
 Lá também é feito o chamado dos arquivos .sh que serão executados.
-  
+
+[![N|Solid](https://docs.google.com/uc?id=12dfTaY4yYAb_wCLj9ktEO2kpFJ1p31Pd)
+
+Fluxo de execução no arflow
+
+[![N|Solid](https://docs.google.com/uc?id=1vcFM2TYbp5L6GN-YJDbOchF9IUyyjE-9)
+
+Dag criada no arflow
+
+[![N|Solid](https://docs.google.com/uc?id=1WJMtWuZAsXAQup2jODJS13Cbht6w-4_W)
 
 
 GNU
